@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pigmyweeds</string>
+    <string name="also_known_as_jade_tree">Also known as <b>Jade tree</b></string>
+    <string name="botanical_name_crassula">Botanical name: <b>Crassula</b></string>
 </resources>
