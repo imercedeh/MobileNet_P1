@@ -10,7 +10,7 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="373dp"
+        android:layout_height="901dp"
         android:scaleType="fitXY"
         android:src="@drawable/pic" />
 
@@ -21,8 +21,91 @@
         android:paddingTop="50dp"
         android:text="Pigmyweeds"
         android:textColor="@color/black"
+        android:textSize="150dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="100dp"
+        android:paddingTop="50dp"
+        android:text="Also known as Jade tree"
+        android:textColor="@color/black"
         android:textSize="65dp"
         android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="100dp"
+        android:paddingTop="25dp"
+        android:paddingBottom="100dp"
+        android:text="Botanical name: Crassula"
+        android:textColor="@color/black"
+        android:textSize="65dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="100dp"
+        android:paddingTop="25dp"
+        android:paddingBottom="50dp"
+        android:text="Overview"
+        android:textColor="@color/black"
+        android:textSize="85dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="100dp"
+        android:paddingTop="25dp"
+        android:paddingBottom="85dp"
+        android:text="Crassula is an indoor succulent plant \nfamily that displays surprising evergreen \nleafage."
+        android:textColor="@color/black"
+        android:textSize="85dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="100dp"
+        android:paddingTop="25dp"
+        android:paddingBottom="50dp"
+        android:text="Planting Difficulty"
+        android:textColor="@color/black"
+        android:textSize="85dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="134dp"
+        android:paddingLeft="100dp"
+        android:paddingTop="25dp"
+        android:paddingBottom="85dp"
+        android:text=" With its reduced need for care, it poses\npractically no difficulty to the caretaker."
+        android:textColor="@color/black"
+        android:textSize="85dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
