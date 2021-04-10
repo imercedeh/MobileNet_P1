@@ -12,6 +12,11 @@ Students: Mr. Reza Ghahremani & Ms. Mercedeh Irani
 
 Also Thanks to Mr. Emad Razavi
 
+### Project Management Tool
+Trello Link: https://trello.com/b/m9F8vPIA
+
+### Hint!
+Please check branch dev instead of master
 ### First Project 
 
 We need to design the UI of the image below (The image on the left):
