@@ -36,7 +36,6 @@
         android:weightSum="3"
         android:paddingLeft="40dp"
         android:paddingRight="40dp"
-
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -46,6 +45,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
+            android:background="@color/white"
+
             android:layout_weight="1">
             <ImageView
                 android:id="@+id/imageButton"
@@ -70,10 +71,12 @@
         </LinearLayout>
 
 
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
+            android:background="@color/white"
             android:layout_weight="1">
             <ImageView
                 android:id="@+id/imageButton2"
@@ -95,11 +98,13 @@
         </LinearLayout>
 
 
+
         <LinearLayout
 
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
+            android:background="@color/white"
             android:layout_weight="1"
             android:weightSum="3">
 
